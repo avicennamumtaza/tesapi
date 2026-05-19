@@ -5,13 +5,13 @@ Backend API berbasis Laravel 12 untuk manajemen kategori, produk, pesanan, dan r
 ## Screenshot Hasil Postman
 
 ### Active Products
-![Active Products](ss_postman/active_products.png)
+![Active Products](tesapi/ss_postman/active_products.png)
 ### Store Order
-![Store Order](ss_postman/store_order.png)
+![Store Order](tesapi/ss_postman/store_order.png)
 ### Summary Dashboard
-![Summary Dashboard](ss_postman/summary_dashboard.png)
+![Summary Dashboard](tesapi/ss_postman/summary_dashboard.png)
 ### Clear Cache
-![Clear Cache](ss_postman/clear_cache.png)
+![Clear Cache](tesapi/ss_postman/clear_cache.png)
 
 ## Data
 
